@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdou Lebgaa
+# Hi 👋, I'm Abderrahmane Lebgaa
 
 ### Flutter & Full Stack Developer | Building cross-platform apps for iOS & Android | Final-year Software Engineering student
 
@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LebgaaAbderrahmane&show_icons=true&locale=en&layout=compact" alt="LebgaaAbderrahmane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LebgaaAbderrahmane&show_icons=true&locale=en" alt="LebgaaAbderrahmane" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LebgaaAbderrahmane&" alt="LebgaaAbderrahmane" /></p>
 
