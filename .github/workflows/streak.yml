@@ -1,0 +1,29 @@
+name: Streak Stats
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: LebgaaAbderrahmane
+        run: |
+          gh api graphql -f query='query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { weeks { contributionDays { date contributionCount } } } } } }' -F login="$USERNAME" > calendar.json
+          python3 scripts/gen_streak_stats.py calendar.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add streak-stats/streak.svg
+          git commit -m "generated streak stats card" || echo "No changes to commit"
+          git push
