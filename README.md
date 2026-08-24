@@ -23,9 +23,8 @@
 
 I'm a **Software Engineer** obsessed with scalable mobile architectures and clean UI/UX. I bridge the gap between frontend flair and backend robustness using Dart/Flutter and the Node.js/Java ecosystems.
 
-- 🔭 **Current Focus:** Building *Istiqamah* – a comprehensive habit tracker for the Muslim community.
+- 🔭 **Current Focus:** Building *Makla* – a food order and delivery app.
 - 👯 **Looking to collaborate on:** System Design, Microservices, and Flutter production scalability.
-- 📝 **Writing:** I share my dev journeys and Flutter tips on my [Blog](https://abderrahmanelebgaa/blog.dev).
 - ⚡ **Fun Fact:** I love turning complex UI designs into pixel-perfect Flutter widgets.
 
 ---
@@ -61,10 +60,10 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 
 ## 📌 Featured Projects
 
-| [**Istiqamah**](https://github.com/LebgaaAbderrahmane/istiqamah) | [**Project 2 (Add your own)**](https://github.com/LebgaaAbderrahmane) |
+| [**Makla**](https://github.com/LebgaaAbderrahmane/makla) | [**Dentora**](https://github.com/LebgaaAbderrahmane/dentora) |
 | :---: | :---: |
-| *A Muslim-focused habit tracker built with Flutter & Firebase* | *Description of your second awesome project* |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| *A food order & delivery app – from browsing menus to doorstep delivery* | *Dentist clinic full management system with a patients portal & marketing site* |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
 
 ---
 
@@ -87,16 +86,6 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 
 ---
 
-## 🎵 Now Playing (Spotify)
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=36BCF7&bar_color_cover=true" alt="Now Playing"/>
-  </a>
-</p>
-
----
-
 ## 📊 WakaTime Activity (Coding Stats)
 
 <!-- START_SECTION:waka -->
@@ -104,8 +93,10 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 Dart       15 hrs 30 mins  █████████████░░░░░░░░░░░░   65.2%
 Java       5 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   22.0%
 TypeScript 2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.8%
+```
 
 <!-- END_SECTION:waka -->
+
 ---
 
 ## 👀 Profile Views
