@@ -1,8 +1,8 @@
-name: Profile Summary Cards
+name: Profile Cards
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "45 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,9 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: LebgaaAbderrahmane
-          THEME: radical
+        run: |
+          gh api graphql -f query='query($login: String!) { user(login: $login) { repositories(first: 100, ownerAffiliations: [OWNER], isFork: false, orderBy: {field: PUSHED_AT, direction: DESC}) { nodes { stargazerCount languages(first: 20) { edges { size node { name color } } } } } contributionsCollection { totalCommitContributions totalPullRequestContributions totalIssueContributions contributionCalendar { weeks { contributionDays { date contributionCount } } } } repositoriesContributedTo(first: 1) { totalCount } } }' -F login="$USERNAME" > cards.json
+          python3 scripts/gen_cards.py cards.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add cards
+          git commit -m "generated profile cards" || echo "No changes to commit"
+          git push
