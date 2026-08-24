@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Streak stats">
+  <rect width="495" height="195" fill="#0d1117" rx="4.5"/>
+  <line x1="165" y1="38" x2="165" y2="157" stroke="#21262d" stroke-width="1"/>
+  <line x1="330" y1="38" x2="330" y2="157" stroke="#21262d" stroke-width="1"/>
+  <text x="82" y="72" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#c9d1d9">Total Contributions</text>
+<text x="82" y="118" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="36" font-weight="600" fill="#36BCF7">400</text>
+  <text x="247" y="72" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#c9d1d9">Current Streak</text>
+<text x="247" y="118" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="36" font-weight="600" fill="#36BCF7">21</text>
+<text x="247" y="142" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="14" fill="#36BCF7">days</text>
+  <text x="412" y="72" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#c9d1d9">Longest Streak</text>
+<text x="412" y="118" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="36" font-weight="600" fill="#36BCF7">21</text>
+<text x="412" y="142" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="14" fill="#36BCF7">days</text>
+</svg>
