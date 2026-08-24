@@ -18,10 +18,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: LebgaaAbderrahmane
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add github-profile-summary-cards
-          git commit -m "generated profile summary cards" || echo "No changes to commit"
-          git push
+          THEME: radical
