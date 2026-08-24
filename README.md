@@ -1,6 +1,6 @@
 <!-- Banner with Gradient Overlay (Replace URL) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abderrahmane%20Lebgaa&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Full%20Stack&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=200&section=header&text=Abderrahmane%20Lebgaa&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Full%20Stack&descAlignY=55" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
@@ -42,19 +42,14 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 
 ## 🛠️ Full Tech Stack
 
-<details>
-  <summary><b>📌 Click to expand the complete toolset</b></summary>
-  <br/>
-
-  | **Category**       | **Technologies**                                                                                                                                                                                                 |
-  |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  | **Languages**       | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-  | **Mobile/UI**       | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-  | **Backend & DB**    | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
-  | **Databases**       | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) |
-  | **DevOps & Tools**  | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-  | **Cloud/Firebase**  | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                               |
-</details>
+| **Category**       | **Technologies**                                                                                                                                                                                                 |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**       | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Mobile/UI**       | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Backend & DB**    | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Databases**       | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) |
+| **DevOps & Tools**  | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Cloud/Firebase**  | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                               |
 
 ---
 
@@ -71,7 +66,7 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LebgaaAbderrahmane&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LebgaaAbderrahmane&theme=radical&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=LebgaaAbderrahmane&theme=radical&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="49%" />
 </div>
 
 <div align="center">
@@ -83,19 +78,6 @@ I'm a **Software Engineer** obsessed with scalable mobile architectures and clea
 <p align="center">
   <img src="https://raw.githubusercontent.com/LebgaaAbderrahmane/LebgaaAbderrahmane/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3D Contributions"/>
 </p>
-
----
-
-## 📊 WakaTime Activity (Coding Stats)
-
-<!-- START_SECTION:waka -->
-```text
-Dart       15 hrs 30 mins  █████████████░░░░░░░░░░░░   65.2%
-Java       5 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   22.0%
-TypeScript 2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.8%
-```
-
-<!-- END_SECTION:waka -->
 
 ---
 
