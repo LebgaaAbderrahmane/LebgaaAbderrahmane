@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" role="img">
   <rect width="830" height="200" fill="#0d1117" rx="4.5"/>
 <text x="83.0" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Stars</text>
-<text x="83.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">3</text>
+<text x="83.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">2</text>
 <text x="249.0" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Commits (this year)</text>
 <text x="249.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">321</text>
 <line x1="166" y1="48" x2="166" y2="152" stroke="#21262d"/>
@@ -12,6 +12,6 @@
 <text x="581.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">1</text>
 <line x1="498" y1="48" x2="498" y2="152" stroke="#21262d"/>
 <text x="747.0" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Contributed to</text>
-<text x="747.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">4</text>
+<text x="747.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">2</text>
 <line x1="664" y1="48" x2="664" y2="152" stroke="#21262d"/>
 </svg>
