@@ -9,33 +9,33 @@
 <rect x="199.0" y="155.0" width="37.9" height="0.0" rx="3" fill="#36BCF7"/>
 <text x="217.91666666666666" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Nov</text>
 <text x="217.91666666666666" y="149.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">0</text>
-<rect x="258.1" y="152.0" width="37.9" height="3.0" rx="3" fill="#36BCF7"/>
+<rect x="258.1" y="152.5" width="37.9" height="2.5" rx="3" fill="#36BCF7"/>
 <text x="277.0833333333333" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Dec</text>
-<text x="277.0833333333333" y="146.015503875969" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">7</text>
-<rect x="317.3" y="148.6" width="37.9" height="6.4" rx="3" fill="#36BCF7"/>
+<text x="277.0833333333333" y="146.4671052631579" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">7</text>
+<rect x="317.3" y="149.6" width="37.9" height="5.4" rx="3" fill="#36BCF7"/>
 <text x="336.24999999999994" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Jan</text>
-<text x="336.24999999999994" y="142.6046511627907" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">15</text>
-<rect x="376.5" y="146.9" width="37.9" height="8.1" rx="3" fill="#36BCF7"/>
+<text x="336.24999999999994" y="143.57236842105263" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">15</text>
+<rect x="376.5" y="148.1" width="37.9" height="6.9" rx="3" fill="#36BCF7"/>
 <text x="395.41666666666663" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Feb</text>
-<text x="395.41666666666663" y="140.89922480620154" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">19</text>
+<text x="395.41666666666663" y="142.125" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">19</text>
 <rect x="435.6" y="155.0" width="37.9" height="0.0" rx="3" fill="#36BCF7"/>
 <text x="454.5833333333333" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Mar</text>
 <text x="454.5833333333333" y="149.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">0</text>
-<rect x="494.8" y="149.5" width="37.9" height="5.5" rx="3" fill="#36BCF7"/>
+<rect x="494.8" y="150.3" width="37.9" height="4.7" rx="3" fill="#36BCF7"/>
 <text x="513.75" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Apr</text>
-<text x="513.75" y="143.45736434108528" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">13</text>
+<text x="513.75" y="144.29605263157896" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">13</text>
 <rect x="554.0" y="154.6" width="37.9" height="0.4" rx="3" fill="#36BCF7"/>
 <text x="572.9166666666666" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">May</text>
-<text x="572.9166666666666" y="148.57364341085272" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">1</text>
-<rect x="613.1" y="133.7" width="37.9" height="21.3" rx="3" fill="#36BCF7"/>
+<text x="572.9166666666666" y="148.63815789473685" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">1</text>
+<rect x="613.1" y="136.9" width="37.9" height="18.1" rx="3" fill="#36BCF7"/>
 <text x="632.0833333333334" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Jun</text>
-<text x="632.0833333333334" y="127.68217054263565" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">50</text>
-<rect x="672.3" y="126.4" width="37.9" height="28.6" rx="3" fill="#36BCF7"/>
+<text x="632.0833333333334" y="130.9078947368421" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">50</text>
+<rect x="672.3" y="130.8" width="37.9" height="24.2" rx="3" fill="#36BCF7"/>
 <text x="691.25" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Jul</text>
-<text x="691.25" y="120.43410852713178" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">67</text>
+<text x="691.25" y="124.75657894736841" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">67</text>
 <rect x="731.5" y="45.0" width="37.9" height="110.0" rx="3" fill="#36BCF7"/>
 <text x="750.4166666666666" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Aug</text>
-<text x="750.4166666666666" y="39.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">258</text>
+<text x="750.4166666666666" y="39.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">304</text>
 <line x1="70" y1="155" x2="780" y2="155" stroke="#21262d"/>
 <text x="415.0" y="28" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Contributions per month</text>
 </svg>
