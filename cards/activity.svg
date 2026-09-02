@@ -33,9 +33,9 @@
 <rect x="672.3" y="45.0" width="37.9" height="110.0" rx="3" fill="#36BCF7"/>
 <text x="691.25" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Aug</text>
 <text x="691.25" y="39.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">355</text>
-<rect x="731.5" y="155.0" width="37.9" height="0.0" rx="3" fill="#36BCF7"/>
+<rect x="731.5" y="154.7" width="37.9" height="0.3" rx="3" fill="#36BCF7"/>
 <text x="750.4166666666666" y="176" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="11" font-weight="400" fill="#c9d1d9">Sep</text>
-<text x="750.4166666666666" y="149.0" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">0</text>
+<text x="750.4166666666666" y="148.69014084507043" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" font-weight="400" fill="#c9d1d9">1</text>
 <line x1="70" y1="155" x2="780" y2="155" stroke="#21262d"/>
 <text x="415.0" y="28" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Contributions per month</text>
 </svg>
