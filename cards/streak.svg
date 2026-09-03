@@ -3,8 +3,8 @@
 <text x="138.33333333333334" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Total Contributions</text>
 <text x="138.33333333333334" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">528</text>
 <text x="415.0" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Current Streak</text>
-<text x="415.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">1</text>
-<text x="415.0" y="148" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="14" font-weight="400" fill="#36BCF7">day</text>
+<text x="415.0" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">0</text>
+<text x="415.0" y="148" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="14" font-weight="400" fill="#36BCF7">days</text>
 <line x1="277" y1="52" x2="277" y2="150" stroke="#21262d"/>
 <text x="691.6666666666666" y="82" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#c9d1d9">Longest Streak</text>
 <text x="691.6666666666666" y="128" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="34" font-weight="600" fill="#36BCF7">27</text>
