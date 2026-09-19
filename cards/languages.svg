@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" role="img">
   <rect width="830" height="200" fill="#0d1117" rx="4.5"/>
 <g transform="translate(150,100)">
-<path d="M 0.00 -62.00 A 62 62 0 1 1 -61.37 8.83" fill="none" stroke="#f1e05a" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -61.37 8.83 A 62 62 0 0 1 -30.08 -54.22" fill="none" stroke="#3178c6" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -30.08 -54.22 A 62 62 0 0 1 -17.81 -59.39" fill="none" stroke="#00B4AB" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -17.81 -59.39 A 62 62 0 0 1 -9.85 -61.21" fill="none" stroke="#e34c26" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -9.85 -61.21 A 62 62 0 0 1 -4.28 -61.85" fill="none" stroke="#663399" stroke-width="30" stroke-linecap="butt"/>
+<path d="M 0.00 -62.00 A 62 62 0 1 1 -61.34 9.01" fill="none" stroke="#f1e05a" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -61.34 9.01 A 62 62 0 0 1 -30.08 -54.21" fill="none" stroke="#3178c6" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -30.08 -54.21 A 62 62 0 0 1 -17.83 -59.38" fill="none" stroke="#00B4AB" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -17.83 -59.38 A 62 62 0 0 1 -9.86 -61.21" fill="none" stroke="#e34c26" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -9.86 -61.21 A 62 62 0 0 1 -4.28 -61.85" fill="none" stroke="#663399" stroke-width="30" stroke-linecap="butt"/>
 <path d="M -4.28 -61.85 A 62 62 0 0 1 -0.00 -62.00" fill="none" stroke="#3572A5" stroke-width="30" stroke-linecap="butt"/>
 </g>
 <rect x="330" y="31" width="14" height="14" rx="3" fill="#f1e05a"/>
 <text x="352" y="43" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">JavaScript <tspan fill="#36BCF7">72.7%</tspan></text>
 <rect x="330" y="57" width="14" height="14" rx="3" fill="#3178c6"/>
-<text x="352" y="69" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">TypeScript <tspan fill="#36BCF7">19.2%</tspan></text>
+<text x="352" y="69" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">TypeScript <tspan fill="#36BCF7">19.3%</tspan></text>
 <rect x="330" y="83" width="14" height="14" rx="3" fill="#00B4AB"/>
 <text x="352" y="95" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">Dart <tspan fill="#36BCF7">3.4%</tspan></text>
 <rect x="330" y="109" width="14" height="14" rx="3" fill="#e34c26"/>
@@ -20,5 +20,5 @@
 <text x="352" y="147" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">CSS <tspan fill="#36BCF7">1.4%</tspan></text>
 <rect x="330" y="161" width="14" height="14" rx="3" fill="#3572A5"/>
 <text x="352" y="173" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">Python <tspan fill="#36BCF7">1.1%</tspan></text>
-<text x="545.0" y="178" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" font-weight="400" fill="#c9d1d9">20 languages across 21 repos</text>
+<text x="545.0" y="178" text-anchor="middle" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" font-weight="400" fill="#c9d1d9">20 languages across 22 repos</text>
 </svg>
