@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" role="img">
   <rect width="830" height="200" fill="#0d1117" rx="4.5"/>
 <g transform="translate(150,100)">
-<path d="M 0.00 -62.00 A 62 62 0 1 1 -60.25 14.62" fill="none" stroke="#f1e05a" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -60.25 14.62 A 62 62 0 0 1 -31.22 -53.56" fill="none" stroke="#3178c6" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -31.22 -53.56 A 62 62 0 0 1 -19.42 -58.88" fill="none" stroke="#00B4AB" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -19.42 -58.88 A 62 62 0 0 1 -11.52 -60.92" fill="none" stroke="#e34c26" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -11.52 -60.92 A 62 62 0 0 1 -5.69 -61.74" fill="none" stroke="#663399" stroke-width="30" stroke-linecap="butt"/>
-<path d="M -5.69 -61.74 A 62 62 0 0 1 -0.00 -62.00" fill="none" stroke="#3572A5" stroke-width="30" stroke-linecap="butt"/>
+<path d="M 0.00 -62.00 A 62 62 0 1 1 -60.24 14.66" fill="none" stroke="#f1e05a" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -60.24 14.66 A 62 62 0 0 1 -31.23 -53.56" fill="none" stroke="#3178c6" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -31.23 -53.56 A 62 62 0 0 1 -19.42 -58.88" fill="none" stroke="#00B4AB" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -19.42 -58.88 A 62 62 0 0 1 -11.53 -60.92" fill="none" stroke="#e34c26" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -11.53 -60.92 A 62 62 0 0 1 -5.68 -61.74" fill="none" stroke="#663399" stroke-width="30" stroke-linecap="butt"/>
+<path d="M -5.68 -61.74 A 62 62 0 0 1 -0.00 -62.00" fill="none" stroke="#3572A5" stroke-width="30" stroke-linecap="butt"/>
 </g>
 <rect x="330" y="31" width="14" height="14" rx="3" fill="#f1e05a"/>
 <text x="352" y="43" font-family='Segoe UI, Ubuntu, sans-serif' font-size="15" fill="#c9d1d9">JavaScript <tspan fill="#36BCF7">71.2%</tspan></text>
